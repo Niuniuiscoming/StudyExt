@@ -1,0 +1,12 @@
+/**********全局样式**************/
+
+html,
+body {
+	font-family: 微软雅黑;
+	background-color: white;
+}
+
+body.x-desktop {
+	font-size: 100%;
+}
+
